@@ -6,7 +6,7 @@ int main() {
 
 	printf("add");
 
-	printf("pull");
+	printf("pull‚ğ•ÏX");
 	
 	return 0;
 }
