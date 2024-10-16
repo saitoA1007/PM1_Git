@@ -6,6 +6,6 @@ int main() {
 
 	printf("add");
 
-	printf("pull");
+	
 	return 0;
 }
